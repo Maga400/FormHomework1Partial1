@@ -36,7 +36,7 @@
             // 
             BakuButton.BackColor = SystemColors.ButtonShadow;
             BakuButton.ForeColor = Color.Yellow;
-            BakuButton.Location = new Point(203, 89);
+            BakuButton.Location = new Point(203, 91);
             BakuButton.Name = "BakuButton";
             BakuButton.Size = new Size(94, 60);
             BakuButton.TabIndex = 0;
